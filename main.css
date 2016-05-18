@@ -1,0 +1,59 @@
+  body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+  color: #2F4F4F;
+  font-family: Palatino, 'Palatino Linotype', serif;
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+.main {
+    background-size: cover;
+    color:white;
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+.editing2 {
+    background-image: url("DSC_0860.jpg");
+    
+}
+
+.editing3 {
+    background-image: url("1.jpg");
+    
+
+}
+
+.editing4 {
+    background-image: url("DSC_1018.jpg")
+}
+
+.editing {
+  background-image: url("http://www.alaulili.com/uploads/1/3/1/8/13180559/9050856_orig.jpg?1347611995");
+}
+
+
+p {
+  font-size: 2rem;
+
+}
+
+.main a {
+	color:burlywood;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#footer {
+  font-size: 0.75rem;
+}
